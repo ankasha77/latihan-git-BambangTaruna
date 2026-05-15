@@ -3,3 +3,4 @@ NIM    : F1B250016
 ALAMAT : Cibiru Tonggoh
 PRODI  : Sistem Informasi
 HOBI   : Main Game, Olahraga, Nonton Film
+ALASAN : Meskipun saya tidak memiliki basic dalam programming tapi saya tertarik dan ingin belajar bahasa pemrograman, lalu yang serba digitial ini semua menggunakan komputer

@@ -1,0 +1,4 @@
+NAMA   : Bambang Taruna Pratama Yudha
+NIM    : F1B250016
+ALAMAT : CIBIRU TONGGOH
+PRODI  : SISTEM INFORMASI
